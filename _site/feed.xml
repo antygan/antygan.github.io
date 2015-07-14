@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Anantha Kamath</title>
+		<description>Blog and website of Anantha Kamath. Opinions expressed are mine.</description>		
+		<link>http://ananthakamath.com</link>
+		<atom:link href="http://ananthakamath.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Software blog</title>
+				        
+				
+					<description>
+
+</description>
+				
+				<pubDate>Sat, 11 Jul 2015 00:00:00 +0200</pubDate>
+				<link>http://ananthakamath.com/tech/2015/07/11/software.html</link>
+				<guid isPermaLink="true">http://ananthakamath.com/tech/2015/07/11/software.html</guid>
+			</item>
+		
+			<item>
+				<title>Travel blog</title>
+				        
+				
+					<description>A travel blog will be here
+
+
+</description>
+				
+				<pubDate>Sun, 05 Jul 2015 00:00:00 +0200</pubDate>
+				<link>http://ananthakamath.com/trav/2015/07/05/travel.html</link>
+				<guid isPermaLink="true">http://ananthakamath.com/trav/2015/07/05/travel.html</guid>
+			</item>
+		
+			<item>
+				<title>Cuisine blog</title>
+				        
+				
+					<description>A cuisine blog will be here
+
+
+</description>
+				
+				<pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
+				<link>http://ananthakamath.com/food/2015/07/01/cuisine-blog.html</link>
+				<guid isPermaLink="true">http://ananthakamath.com/food/2015/07/01/cuisine-blog.html</guid>
+			</item>
+		
+			<item>
+				<title>Hardware software blog</title>
+				        
+				
+					<description>A blog with both hardware &amp; software will be here.
+
+
+</description>
+				
+				<pubDate>Sat, 27 Jun 2015 00:00:00 +0200</pubDate>
+				<link>http://ananthakamath.com/tech/2015/06/27/hardware-software-blog.html</link>
+				<guid isPermaLink="true">http://ananthakamath.com/tech/2015/06/27/hardware-software-blog.html</guid>
+			</item>
+		
+	</channel>
+</rss>

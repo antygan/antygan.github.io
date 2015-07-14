@@ -1,0 +1,71 @@
+# Site settings
+
+url: "http://ananthakamath.com"
+title: "Anantha Kamath"
+description: "Blog and website of Anantha Kamath. Opinions expressed are mine."
+keywords: "Anantha, Kamath, antygan, embedded systems, LEGO, Uppsala, Multicore, Recore, NIE, Intel"
+favicon: "/img/favicon.ico"
+black-favicon: "/img/black-lab-glass.ico"
+google-tracking-id: "UA-65113800-1"
+disqus-shortname: "Anantha"
+
+# Navigation bar links
+# Blog link in the blog and post pages will point to the blog.html#blog
+# In the default page it will point to the preview of the last post
+
+pages_list:
+  About: 'about'
+  Blog: 'blog'
+  Career: 'career'
+  Contact: 'contact'
+
+background-img: "/img/intro-bg.jpg"
+
+# About variables
+
+me-img: "/img/me.jpg"
+
+# Blog variables
+
+post-preview-words: 128
+
+fb-share: True
+twitter-share: True
+reddit-share: True
+
+# Career variables
+
+events:
+  - image: "/img/career/intel.jpg"
+    date: "August 2014 - Today"
+    description: "Embedded Software Engineer @ Intel, Netherlands"
+  - image: "/img/career/recore.jpg"
+    date: "October 2012 - June 2014"
+    description: "Hardware/ Software Design Engineer @ Recore Systems, Netherlands"
+  - image: "/img/career/opencores.jpg"
+    date: "December 2011 - June 2012"
+    description: "Thesis Intern @ Opencores.org"
+  - image: "/img/career/uu.jpg"
+    date: "August 2010 - June 2012"
+    description: "Master studies in Embedded Systems @ Uppsala University, Sweden"
+  - image: "/img/career/bosch.jpg"
+    date: "July 2006 - August 2010"
+    description: "Embedded Software Developer @ Bosch, India"
+  - image: "/img/career/nie.jpg"
+    date: "June 2002 - April 2006"
+    description: "Bachelor studies in Electronics and Telecomunications @ NIE, India"
+
+# First image of the Career timeline
+career-img: "/img/career/minion.jpg"
+
+# Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
+social:
+  - title: "github"
+    url: "https://github.com/antygan"
+  - title: "linkedin"
+    url: "https://nl.linkedin.com/pub/anantha-kamath/a/b71/894"
+
+404-img: "/img/labtocat.png"
+    
+# Exclusion list from the generated _site
+exclude: ["Rakefile", "LICENSE", "readme.markdown", "vendor"]
